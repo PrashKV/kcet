@@ -1,0 +1,78 @@
+a.one {
+    text-decoration: none;
+    color:dodgerblue ; 
+    font-weight:bolder
+}
+a.one:hover{
+    text-decoration:none;
+    text-decoration-color: aqua;
+    color:rgb(41, 114, 187)
+}
+
+a.two{
+    text-decoration: none;
+    color:white
+}
+a.two:hover{
+    color:rgb(211, 211, 178)
+}
+
+html, body {
+    width: 100%;
+    height:100%
+}
+
+footer {
+    
+    position:fixed;
+    bottom : 0%;
+    right : 0;
+    left : 0
+}
+
+.spacer{
+    margin-bottom:120px; /* how high is your footer */
+    visibility: hidden; 
+  }
+
+  .roll{
+      background-color: rgb(102, 99, 95);
+  }
+
+h1 {
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    color:gold;
+}
+
+
+.middle{
+    margin-left : 20%;
+    margin-right: 20%;
+}
+
+.fon{
+    font-family: Verdana;
+    font-weight: 100;
+}
+
+
+.list{
+    margin-left :20%;
+    margin-right:20%
+}
+
+.link {
+    text-decoration: none;
+}
+
+.details{
+    background-color: rgb(53, 92, 78);
+}
+
+.foot{
+    font-size-adjust: 0.;
+}
+
+.para{
+    line-height:200%;
+}
